@@ -5,7 +5,6 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
-import Button from '@material-ui/core/Button';
 
 const features = [
   {
@@ -62,30 +61,80 @@ function Home() {
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <div className={styles.buttons}>
-            <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
-              to={useBaseUrl('docs/games')}>
-              Games
-            </Link>
-          </div>
         </div>
       </header>
       <main>
-        {features && features.length > 0 && (
-          <section className={styles.features}>
-            <div className="container">
-              <div className="row">
-                {features.map((props, idx) => (
-                  <Feature key={idx} {...props} />
-                ))}
+        <section className={styles.featuresDark}>
+          <div className="container">
+            <h2>Hey, Pigster here.</h2>
+            <div className="blockText">
+              <p>Welcome! This website is where I log my recorded video game plays. <br/>
+              I also post about game related stuff on my Tumblr once in a while.</p>
+              <div className="updates">
+                <Link
+                  className={clsx(
+                    'button button--outline button--primary',
+                    styles.getStarted,
+                  )}
+                  to={useBaseUrl('docs/me')}>
+                  About
+                </Link>
+                <Link
+                  className={clsx(
+                    'button button--outline button--primary',
+                    styles.getStarted,
+                  )}
+                  to={useBaseUrl('docs/updates')}>
+                  Updates
+                </Link>
               </div>
             </div>
-          </section>
-        )}
+          </div>
+        </section>
+
+        <section className={styles.features}>
+        <div className="container">
+          <h2>Stuff in here</h2>
+            <div className="cols">
+              <div className="game-card-body ripple extra">
+                <Link to={useBaseUrl('/rhythmgames')}>
+                    <img src={require('@site/static/img/pdmm.png').default} />
+                    <div className="game-card-segment">
+                        <div className="title">Rhythm Games</div>
+                        <div className="text">Collection of rhythm game plays.</div>
+                    </div>
+                </Link>
+              </div>
+              <div className="game-card-body ripple extra">
+                <Link to={useBaseUrl('/games')}>
+                    <img src={require('@site/static/img/games.png').default} />
+                    <div className="game-card-segment">
+                        <div className="title">Other Games</div>
+                        <div className="text">Check out my other gameplays here.</div>
+                    </div>
+                </Link>
+              </div>
+              <div className="game-card-body ripple extra">
+                <Link to={useBaseUrl('/blog')}>
+                    <img src={require('@site/static/img/reviews2.png').default} />
+                    <div className="game-card-segment">
+                        <div className="title">Reviews</div>
+                        <div className="text">Short reviews of the video games played.</div>
+                    </div>
+                </Link>
+              </div>
+              <div className="game-card-body ripple extra">
+                <a href="https://pigsterchurn.tumblr.com/">
+                    <img src={require('@site/static/img/tumblr.png').default} />
+                    <div className="game-card-segment">
+                        <div className="title">Tumblr</div>
+                        <div className="text">I post random updates (mostly games related) on this microblog.</div>
+                    </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
       </main>
     </Layout>
   );

@@ -1,10 +1,11 @@
 ---
 id: the-alliance-alive
 title: The Alliance Alive
-sidebar_label: The Alliance Alive
 ---
 
 ## Game Information
+
+![image info](../../static/games/the-alliance-alive.jpg)
 
 **Release Date:** 8th Oct 2019
 
@@ -15,10 +16,12 @@ sidebar_label: The Alliance Alive
 This is not a 100% playthrough. This is my first (and only) playthrough where I complete the main story.
 
 ## YouTube Playlist
+
+https://www.youtube.com/playlist?list=PL4SqdMtkmSGvVwmYPteTaKBJ6UgvnfNYu
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGvVwmYPteTaKBJ6UgvnfNYu" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Individual Video Links
-- [Part 1](https://www.youtube.com/watch?v=a45XBCI1LSs&list=PL4SqdMtkmSGvVwmYPteTaKBJ6UgvnfNYu&index=1)
+<!-- - [Part 1](https://www.youtube.com/watch?v=a45XBCI1LSs&list=PL4SqdMtkmSGvVwmYPteTaKBJ6UgvnfNYu&index=1)
 - [Part 2](https://www.youtube.com/watch?v=xDCCYB1esWQ&list=PL4SqdMtkmSGvVwmYPteTaKBJ6UgvnfNYu&index=2)
 - [Part 3](https://www.youtube.com/watch?v=SCZXXqdxPcs&list=PL4SqdMtkmSGvVwmYPteTaKBJ6UgvnfNYu&index=3)
 - [Part 4](https://www.youtube.com/watch?v=w5Rnc5h49pE&list=PL4SqdMtkmSGvVwmYPteTaKBJ6UgvnfNYu&index=4)
@@ -51,4 +54,4 @@ This is not a 100% playthrough. This is my first (and only) playthrough where I 
 - [Part 31](https://www.youtube.com/watch?v=WlP9L0zg1Fc&list=PL4SqdMtkmSGvVwmYPteTaKBJ6UgvnfNYu&index=31)
 - [Part 32](https://www.youtube.com/watch?v=sT-5cLXjmeY&list=PL4SqdMtkmSGvVwmYPteTaKBJ6UgvnfNYu&index=32)
 - [Part 33](https://www.youtube.com/watch?v=EF2lzeh47CY&list=PL4SqdMtkmSGvVwmYPteTaKBJ6UgvnfNYu&index=33)
-- [Part 34](https://www.youtube.com/watch?v=3lO7WkXaw9Q&list=PL4SqdMtkmSGvVwmYPteTaKBJ6UgvnfNYu&index=34)
+- [Part 34](https://www.youtube.com/watch?v=3lO7WkXaw9Q&list=PL4SqdMtkmSGvVwmYPteTaKBJ6UgvnfNYu&index=34) -->

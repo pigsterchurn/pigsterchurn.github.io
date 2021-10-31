@@ -1,10 +1,11 @@
 ---
 id: ffviir
 title: Final Fantasy VII Remake
-sidebar_label: Final Fantasy VII Remake
 ---
 
 ## Game Information
+
+![image info](../../static/games/ffviir.jpg)
 
 **Release Date:** 10th Apr 2020
 
@@ -21,9 +22,11 @@ Notable things that were missed out:
 
 ## YouTube Playlist
 
+https://www.youtube.com/playlist?list=PL4SqdMtkmSGtrkcY3yURB38kind3LQAtR
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGtrkcY3yURB38kind3LQAtR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Individual Video Links
+<!-- ## Individual Video Links
 - [Part 1](https://www.youtube.com/watch?v=ux77Y1Zinbw&list=PL4SqdMtkmSGtrkcY3yURB38kind3LQAtR&index=1)
 - [Part 2](https://www.youtube.com/watch?v=XGnBFT4mqjg&list=PL4SqdMtkmSGtrkcY3yURB38kind3LQAtR&index=2)
 - [Part 3](https://www.youtube.com/watch?v=JSpvVXZh4S0&list=PL4SqdMtkmSGtrkcY3yURB38kind3LQAtR&index=3)
@@ -42,6 +45,6 @@ Notable things that were missed out:
 - [Part 16](https://www.youtube.com/watch?v=SkM_IEGrYrU&list=PL4SqdMtkmSGtrkcY3yURB38kind3LQAtR&index=16)
 - [Part 17](https://www.youtube.com/watch?v=CsAEsx2y6_U&list=PL4SqdMtkmSGtrkcY3yURB38kind3LQAtR&index=17)
 - [Part 18](https://www.youtube.com/watch?v=i72Dv1Nq-hk&list=PL4SqdMtkmSGtrkcY3yURB38kind3LQAtR&index=18)
-- [Part 19](https://www.youtube.com/watch?v=9zRqz_lBrUE&list=PL4SqdMtkmSGtrkcY3yURB38kind3LQAtR&index=19)
+- [Part 19](https://www.youtube.com/watch?v=9zRqz_lBrUE&list=PL4SqdMtkmSGtrkcY3yURB38kind3LQAtR&index=19) -->
 
 

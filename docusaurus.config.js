@@ -12,21 +12,27 @@ module.exports = {
       title: 'Pigster Churn',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo3.png',
+        src: 'img/favicon4.ico',
       },
       items: [
         {
-          to: 'docs/pdmm/pdmm-preface',
-          activeBasePath: 'docs/pdmm/',
-          label: 'PDMM',
+          to: 'rhythmgames',
+          activeBasePath: 'rhythmgames',
+          label: 'Rhythm',
           position: 'left',
         },
         {
-          to: 'docs/games',
-          activeBasePath: 'docs/games',
-          label: 'Games',
+          to: 'games',
+          activeBasePath: 'games',
+          label: 'Others',
           position: 'left',
         },
+        {to: 'blog', label: 'Reviews', position: 'left'},
+        {
+          href: 'https://pigsterchurn.tumblr.com/',
+          label: 'Tumblr',
+          position: 'left',
+        }
         // {to: 'blog', label: 'Blog', position: 'left'},
         /*{
           href: 'https://github.com/facebook/docusaurus',
@@ -40,7 +46,7 @@ module.exports = {
       defaultMode: 'light',
       // Hides the switch in the navbar
       // Useful if you want to support a single color mode
-      disableSwitch: false,
+      disableSwitch: true,
     },
     footer: {
       style: 'dark',
@@ -98,14 +104,14 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'doc1',
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
-          showReadingTime: true,
+          blogSidebarCount: 5,
+          blogSidebarTitle: 'All posts',
+          showReadingTime: true
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+          // editUrl:'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

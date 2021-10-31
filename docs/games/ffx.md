@@ -1,10 +1,11 @@
 ---
 id: ffx
 title: Final Fantasy X HD Remaster
-sidebar_label: Final Fantasy X HD Remaster
 ---
 
 ## Game Information
+
+![image info](../../static/games/ffx.jpg)
 
 **Release Date:** 12th May 2015
 
@@ -20,9 +21,11 @@ Notable things that were missed out:
 
 ## YouTube Playlist
 
+https://www.youtube.com/playlist?list=PL4SqdMtkmSGsK3-xHNbCmG4Fw00X0C6n7
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGsK3-xHNbCmG4Fw00X0C6n7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Individual Video Links
+<!-- ## Individual Video Links
 - [Part 1](https://youtube.com/watch?v=k6TXEFEInm4&list=PL4SqdMtkmSGsK3-xHNbCmG4Fw00X0C6n7&index=1)
 - [Part 2](https://youtube.com/watch?v=x1mQDLr5xHg&list=PL4SqdMtkmSGsK3-xHNbCmG4Fw00X0C6n7&index=2)
 - [Part 3](https://www.youtube.com/watch?v=D7QKIdm04d4&list=PL4SqdMtkmSGsK3-xHNbCmG4Fw00X0C6n7&index=3)
@@ -54,6 +57,6 @@ Notable things that were missed out:
 - [Part 29](https://www.youtube.com/watch?v=YNEXbDQB6ig&list=PL4SqdMtkmSGsK3-xHNbCmG4Fw00X0C6n7&index=29)
 - [Part 30](https://www.youtube.com/watch?v=HASpgZOQHcs&list=PL4SqdMtkmSGsK3-xHNbCmG4Fw00X0C6n7&index=30)
 - [Part 31](https://www.youtube.com/watch?v=UpMn53qTx44&list=PL4SqdMtkmSGsK3-xHNbCmG4Fw00X0C6n7&index=31)
-- [Part 32](https://www.youtube.com/watch?v=AN77ZD5qFpQ&list=PL4SqdMtkmSGsK3-xHNbCmG4Fw00X0C6n7&index=32)
+- [Part 32](https://www.youtube.com/watch?v=AN77ZD5qFpQ&list=PL4SqdMtkmSGsK3-xHNbCmG4Fw00X0C6n7&index=32) -->
 
 

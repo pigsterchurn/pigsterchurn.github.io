@@ -11,13 +11,13 @@
 @import url("https://fonts.googleapis.com/icon?family=Material+Icons");
 
 :root {
-  --ifm-color-primary: #3578e5;
-  --ifm-color-primary-dark: #1d68e1;
-  --ifm-color-primary-darker: #1b62d4;
-  --ifm-color-primary-darkest: #1751af;
-  --ifm-color-primary-light: #4e89e8;
-  --ifm-color-primary-lighter: #5a91ea;
-  --ifm-color-primary-lightest: #80aaef;
+  --ifm-color-primary: #7198b6;
+  --ifm-color-primary-dark: #5e8aac;
+  --ifm-color-primary-darker: #5583a6;
+  --ifm-color-primary-darkest: #466c88;
+  --ifm-color-primary-light: #84a6c0;
+  --ifm-color-primary-lighter: #8eadc5;
+  --ifm-color-primary-lightest: #abc2d4;
   --ifm-code-font-size: 95%;
 }
 
@@ -27,3 +27,67 @@
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
+
+.gamesContainer h1{
+  margin-top: 0px;
+}
+.game-card-body {
+  margin-bottom: 20px;
+  cursor: pointer;
+  max-width: 345px;
+  overflow: hidden;
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: #fff;
+  border-radius: 4px;
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+.game-card-body img {
+  display: block;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  object-fit: cover;
+  height: 140px;
+}
+.game-card-body .game-card-segment {
+  padding: 16px;
+}
+
+.game-card-body .game-card-segment .title{
+  margin-bottom: 0.35em;
+  font-size: 1.5rem;
+  line-height: 1.334;
+  letter-spacing: 0em;
+}
+.game-card-body .game-card-segment .text{
+  color: #5e5e5e;
+}
+.game-grid {
+  display: grid;
+  /* align-items: center; */
+  grid-template-columns: repeat(auto-fit, minmax(300px, 345px));
+  grid-gap: 1rem;
+}
+.ripple {
+  background-position: center;
+  transition: background 0.8s;
+}
+.ripple:hover {
+  background: #f0f0f0 radial-gradient(circle, transparent 1%, #f0f0f0 1%) center/15000%;
+}
+.ripple:active {
+  background-color: #dfdfdf;
+  background-size: 100%;
+  transition: background 0s;
+}
+.cols {
+  padding-top: 20px;
+  display: grid;
+  grid-column-gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+.updates >a:not(last-child) {
+  margin-right: 8px;
+}
+a:hover { text-decoration: none; }

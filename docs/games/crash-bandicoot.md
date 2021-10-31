@@ -1,10 +1,11 @@
 ---
 id: crash-bandicoot
 title: Crash Bandicoot N. Sane Trilogy
-sidebar_label: Crash Bandicoot N. Sane Trilogy
 ---
 
 ## Game Information
+
+![image info](../../static/games/crash.jpg)
 
 **Release Date:** 30th Jun 2017
 
@@ -20,9 +21,13 @@ Notable things that were missed out:
 
 ## YouTube Playlist
 
+https://www.youtube.com/playlist?list=PL4SqdMtkmSGuxptiX0a-1ir-YlrjxXx_T
+
+**Note:** Part 9 is broken.
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGuxptiX0a-1ir-YlrjxXx_T" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Individual Video Links
+<!-- ## Individual Video Links
 - [Part 1](https://www.youtube.com/watch?v=mHqQVvvcOkM&list=PL4SqdMtkmSGuxptiX0a-1ir-YlrjxXx_T&index=1)
 - [Part 2](https://www.youtube.com/watch?v=tPikdBwpFO4&list=PL4SqdMtkmSGuxptiX0a-1ir-YlrjxXx_T&index=2)
 - [Part 3](https://www.youtube.com/watch?v=Vvzn5KDmxgI&list=PL4SqdMtkmSGuxptiX0a-1ir-YlrjxXx_T&index=3)
@@ -43,5 +48,5 @@ Notable things that were missed out:
 - [Part 18](https://www.youtube.com/watch?v=imJtBxxiMO0&list=PL4SqdMtkmSGuxptiX0a-1ir-YlrjxXx_T&index=18)
 - [Part 19](https://www.youtube.com/watch?v=32P5uMyS440&list=PL4SqdMtkmSGuxptiX0a-1ir-YlrjxXx_T&index=19)
 - [Part 20](https://www.youtube.com/watch?v=NiKw6gSSyXU&list=PL4SqdMtkmSGuxptiX0a-1ir-YlrjxXx_T&index=20)
-- [Part 21](https://www.youtube.com/watch?v=pd4mdkIC_3A&list=PL4SqdMtkmSGuxptiX0a-1ir-YlrjxXx_T&index=21)
+- [Part 21](https://www.youtube.com/watch?v=pd4mdkIC_3A&list=PL4SqdMtkmSGuxptiX0a-1ir-YlrjxXx_T&index=21) -->
 

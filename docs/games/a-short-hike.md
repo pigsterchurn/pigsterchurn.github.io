@@ -1,10 +1,11 @@
 ---
 id: a-short-hike
 title: A Short Hike
-sidebar_label: A Short Hike
 ---
 
 ## Game Information
+
+![image info](../../static/games/a-short-hike.jpg)
 
 **Release Date:** 30th Jul 2019
 
