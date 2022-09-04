@@ -13,7 +13,9 @@ title: Cytus II
 
 ## YouTube Playlist
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLEkMaEefgshDeRny5OyzSqon4QC54pmOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/playlist?list=PLEkMaEefgshDeRny5OyzSqon4QC54pmOY
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLEkMaEefgshDeRny5OyzSqon4QC54pmOY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ## Song List
 All songs are played in Hard difficulty.

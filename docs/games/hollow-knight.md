@@ -17,4 +17,4 @@ title: Hollow Knight
 
 https://www.youtube.com/playlist?list=PL4SqdMtkmSGsSxajIX7JWXMr0VxP1xL74
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGsSxajIX7JWXMr0VxP1xL74" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGsSxajIX7JWXMr0VxP1xL74" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>

@@ -27,4 +27,4 @@ Note: Parts 1 and 2 are not available due to recording issues.
 
 https://youtube.com/playlist?list=PL4SqdMtkmSGuNct_CAgjFhCvBW9jiq-dT
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGuNct_CAgjFhCvBW9jiq-dT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGuNct_CAgjFhCvBW9jiq-dT" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>

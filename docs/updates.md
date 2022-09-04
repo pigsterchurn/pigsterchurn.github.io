@@ -3,6 +3,17 @@ id: updates
 title: Updates
 sidebar_label: Example Page
 ---
+## 2022-02-12
+Added a new game - <a href="/docs/games/toem">TOEM</a>
+
+## 2022-02-12
+Added a new game - <a href="/docs/games/luigi-mansion-3">Luigi's Mansion 3</a>
+
+## 2021-11-02
+Added a new game - <a href="/docs/games/pvzbfn">Plants vs. Zombies: Battle for Neighborville</a>
+
+## 2021-11-02
+Migrated to new version of website!
 
 ## 2021-10-30
 Added a new game - <a href="/docs/games/project-diva-future-tone">Project Diva Future Tone</a>

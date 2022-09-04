@@ -19,4 +19,4 @@ I will try to get as many in-game achievements as possible, but as I am playing 
 
 https://youtube.com/playlist?list=PL4SqdMtkmSGu34kRp1qEWzgNfXwsKXFUd
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGu34kRp1qEWzgNfXwsKXFUd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGu34kRp1qEWzgNfXwsKXFUd" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>

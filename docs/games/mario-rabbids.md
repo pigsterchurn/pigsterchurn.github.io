@@ -19,4 +19,4 @@ This is not a 100% playthrough. This is my first (and only) playthrough where I 
 
 https://www.youtube.com/playlist?list=PL4SqdMtkmSGvL0OFS9jNrsoB27L-JW2sJ
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGvL0OFS9jNrsoB27L-JW2sJ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGvL0OFS9jNrsoB27L-JW2sJ" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>

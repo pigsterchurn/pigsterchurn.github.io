@@ -25,7 +25,7 @@ My overall ranking: **68th** (as of 28th June 2020)
 
 ![image info](../../static/pdmm/pdmm-arcade-overall.png)
 
-<a class='button' href='/docs/pdmm/pdmm-arcade-list'>Go to Arcade Mode</a>
+<a className='button button--outline button--primary' href='/docs/pdmm/pdmm-arcade-list'>Go to Arcade Mode</a>
 
 ## Mix Mode
 My overall ranking: **4th** (as of 22nd Sep 2020)
@@ -35,7 +35,7 @@ My overall ranking: **4th** (as of 22nd Sep 2020)
 Previous recorded ranking:
 [7th (31st July 2020)](../../static/pdmm/pdmm-mix-overall.png)
 
-<a class='button' href='/docs/pdmm/pdmm-mix-list'>Go to Mix Mode</a>
+<a className='button button--outline button--primary' href='/docs/pdmm/pdmm-mix-list'>Go to Mix Mode</a>
 
 ## Rank Information
 - Online ranking for Arcade Mode (Hard) and Mix Mode (Normal) only records the top 500 scores

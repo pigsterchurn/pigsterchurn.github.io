@@ -19,4 +19,4 @@ This is a playthrough of the single player campaign.
 
 https://www.youtube.com/playlist?list=PL4SqdMtkmSGsvG1jKOllVMo8-_Bda-uJ7
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGsvG1jKOllVMo8-_Bda-uJ7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGsvG1jKOllVMo8-_Bda-uJ7" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>

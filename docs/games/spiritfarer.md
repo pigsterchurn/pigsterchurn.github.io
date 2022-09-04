@@ -17,4 +17,4 @@ title: Spiritfarer
 
 https://www.youtube.com/playlist?list=PL4SqdMtkmSGsbxusuUFmVuPxz5puDx2BC
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGsbxusuUFmVuPxz5puDx2BC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGsbxusuUFmVuPxz5puDx2BC" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>

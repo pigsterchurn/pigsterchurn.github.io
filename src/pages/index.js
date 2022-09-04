@@ -5,6 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
+import {latest} from '../data/latest.js';
 
 const features = [
   {
@@ -51,9 +52,16 @@ function Feature({imageUrl, title, description}) {
   );
 }
 
+function CreateLink(props) {
+  return (
+    <Link to={useBaseUrl(props.url)}>[{props.date}] {props.title}</Link>
+  );
+}
+
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
+  const updates = latest.slice(0, 5);
   return (
     <Layout
       description="Description will go into a meta tag in <head />">
@@ -66,27 +74,36 @@ function Home() {
       <main>
         <section className={styles.featuresDark}>
           <div className="container">
-            <h2>Hey, Pigster here.</h2>
-            <div className="blockText">
-              <p>Welcome! This website is where I log my recorded video game plays. <br/>
-              I also post about game related stuff on my Tumblr once in a while.</p>
-              <div className="updates">
-                <Link
-                  className={clsx(
-                    'button button--outline button--primary',
-                    styles.getStarted,
-                  )}
-                  to={useBaseUrl('docs/me')}>
-                  About
-                </Link>
-                <Link
-                  className={clsx(
-                    'button button--outline button--primary',
-                    styles.getStarted,
-                  )}
-                  to={useBaseUrl('docs/updates')}>
-                  Updates
-                </Link>
+            <div className="row">
+              <div className="col col--6">
+                <h2>Hey, Pigster here.</h2>
+                <div className="blockText">
+                  <p>Welcome! This website is where I log my recorded video game plays. <br />
+                    I also post about game related stuff on my Tumblr once in a while.</p>
+                  <div className="updates">
+                    <Link
+                      className={clsx(
+                        'button button--outline button--primary',
+                        styles.getStarted,
+                      )}
+                      to={useBaseUrl('docs/me')}>
+                      About
+                    </Link>
+                    <Link
+                      className={clsx(
+                        'button button--outline button--primary'
+                      )}
+                      to={useBaseUrl('docs/updates')}>
+                      Updates
+                    </Link>
+                  </div>
+                </div>
+              </div>
+              <div className="col col--6">
+                <h2 className="latest">Latest videos</h2>
+                <ul>
+                  {updates.map((link) => <li key={link.title}><CreateLink url={link.url} title={link.title} date={link.date}/></li>)}
+                </ul>
               </div>
             </div>
           </div>
@@ -124,7 +141,7 @@ function Home() {
                 </Link>
               </div>
               <div className="game-card-body ripple extra">
-                <a href="https://pigsterchurn.tumblr.com/">
+                <a href="https://pigsterchurn.tumblr.com/" target="_blank" rel="noopener noreferrer">
                     <img src={require('@site/static/img/tumblr.png').default} />
                     <div className="game-card-segment">
                         <div className="title">Tumblr</div>

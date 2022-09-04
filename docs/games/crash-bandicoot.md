@@ -25,7 +25,7 @@ https://www.youtube.com/playlist?list=PL4SqdMtkmSGuxptiX0a-1ir-YlrjxXx_T
 
 **Note:** Part 9 is broken.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGuxptiX0a-1ir-YlrjxXx_T" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGuxptiX0a-1ir-YlrjxXx_T" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 <!-- ## Individual Video Links
 - [Part 1](https://www.youtube.com/watch?v=mHqQVvvcOkM&list=PL4SqdMtkmSGuxptiX0a-1ir-YlrjxXx_T&index=1)

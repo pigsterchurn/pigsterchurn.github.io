@@ -2,6 +2,8 @@ import React from 'react';
 import styles from './styles.module.css';
 import Layout from '@theme/Layout';
 import useBaseUrl from '@docusaurus/useBaseUrl';
+import Link from '@docusaurus/Link';
+import clsx from 'clsx';
 
 class RhythmGames extends React.Component {
     render() {
@@ -62,20 +64,18 @@ class RhythmGames extends React.Component {
     }
 }
 
-class GameCard extends React.Component {
-    render() {
-        return (
-            <div className="game-card-body ripple">
-                <a href={"/v2" + this.props.link}>
-                <img src={require('@site/static/img/games/' + this.props.image).default} />
-                    <div className="game-card-segment">
-                        <div className="title">{this.props.title}</div>
-                        <div className="text">Platform: {this.props.text}</div>
-                    </div>
-                </a>
-            </div>
-        );
-    }
+function GameCard(props) {
+    return (
+        <div className="game-card-body ripple">
+            <Link to={useBaseUrl(props.link)}>
+                <img src={require('@site/static/img/games/' + props.image).default} />
+                <div className="game-card-segment">
+                    <div className="title">{props.title}</div>
+                    <div className="text">Platform: {props.text}</div>
+                </div>
+            </Link>
+        </div>
+    );
 }
   
 export default RhythmGames;

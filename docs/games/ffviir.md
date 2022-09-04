@@ -24,7 +24,7 @@ Notable things that were missed out:
 
 https://www.youtube.com/playlist?list=PL4SqdMtkmSGtrkcY3yURB38kind3LQAtR
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGtrkcY3yURB38kind3LQAtR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGtrkcY3yURB38kind3LQAtR" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 <!-- ## Individual Video Links
 - [Part 1](https://www.youtube.com/watch?v=ux77Y1Zinbw&list=PL4SqdMtkmSGtrkcY3yURB38kind3LQAtR&index=1)

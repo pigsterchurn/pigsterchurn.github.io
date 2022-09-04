@@ -2,6 +2,8 @@ import React from 'react';
 import styles from './styles.module.css';
 import Layout from '@theme/Layout';
 import useBaseUrl from '@docusaurus/useBaseUrl';
+import Link from '@docusaurus/Link';
+import clsx from 'clsx';
 
 class Games extends React.Component {
     render() {
@@ -52,6 +54,12 @@ class Games extends React.Component {
                 link: '/docs/games/mhst2'
             });
             completedGames.push({
+                title: "NEO: The World Ends with You",
+                text: 'Nintendo Switch',
+                image: 'ntwewy.jpg',
+                link: '/docs/games/ntwewy'
+            });
+            completedGames.push({
                 title: "Spiritfarer",
                 text: 'Nintendo Switch',
                 image: 'spiritfarer.jpg',
@@ -93,10 +101,20 @@ class Games extends React.Component {
 
                         <h2>Ongoing Playthroughs</h2>
                         <div className="game-grid">
-                            <GameCard title="NEO: The World Ends with You"
+                            <GameCard title="Luigi's Mansion 3"
                                 text="Nintendo Switch"
-                                image="ntwewy.jpg"
-                                link="/docs/games/ntwewy">
+                                image="luigi-mansion-3.jpg"
+                                link="/docs/games/luigi-mansion-3">
+                            </GameCard>
+                            <GameCard title="Plants vs. Zombies: Battle for Neighborville"
+                                text="Nintendo Switch"
+                                image="pvzbfn.jpg"
+                                link="/docs/games/pvzbfn">
+                            </GameCard>
+                            <GameCard title="TOEM"
+                                text="Steam"
+                                image="toem.jpg"
+                                link="/docs/games/toem">
                             </GameCard>
                         </div>
 
@@ -106,7 +124,7 @@ class Games extends React.Component {
                         </div>
 
                         <h2>Paused Playthroughs</h2>
-                        <p>Incomplete playthroughs that are put on hiatus temporarily.</p>
+                        <p>Incomplete playthroughs that are put on hiatus indefinitely.</p>
                         <div className="game-grid">
                             <GameCard title="Crash Bandicoot 4: It's About Time"
                                 text="Playstation 4"
@@ -138,20 +156,18 @@ class Games extends React.Component {
     }
 }
 
-class GameCard extends React.Component {
-    render() {
-        return (
-            <div className="game-card-body ripple">
-                <a href={"/v2" + this.props.link}>
-                    <img src={require('@site/static/img/games/' + this.props.image).default} />
-                    <div className="game-card-segment">
-                        <div className="title">{this.props.title}</div>
-                        <div className="text">Platform: {this.props.text}</div>
-                    </div>
-                </a>
-            </div>
-        );
-    }
+function GameCard(props) {
+    return (
+        <div className="game-card-body ripple">
+            <Link to={useBaseUrl(props.link)}>
+                <img src={require('@site/static/img/games/' + props.image).default} />
+                <div className="game-card-segment">
+                    <div className="title">{props.title}</div>
+                    <div className="text">Platform: {props.text}</div>
+                </div>
+            </Link>
+        </div>
+    );
 }
   
 export default Games;

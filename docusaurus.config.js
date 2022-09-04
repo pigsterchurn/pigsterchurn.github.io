@@ -2,11 +2,11 @@ module.exports = {
   title: 'Pigster Churn',
   tagline: 'Just another pig who plays video games',
   url: 'https://pigsterchurn.github.io.',
-  baseUrl: '/v2/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon4.ico',
   organizationName: 'pigsterchurn', // Usually your GitHub org/user name.
-  projectName: 'v2', // Usually your repo name.
+  projectName: 'pigsterchurn.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Pigster Churn',

@@ -17,4 +17,4 @@ title: "Crash Bandicoot 4: It's About Time"
 
 https://www.youtube.com/playlist?list=PL4SqdMtkmSGudmwiAmMxHgVLRSbOeB1v4
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGudmwiAmMxHgVLRSbOeB1v4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4SqdMtkmSGudmwiAmMxHgVLRSbOeB1v4" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
