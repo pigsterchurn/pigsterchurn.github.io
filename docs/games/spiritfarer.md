@@ -9,7 +9,7 @@ title: Spiritfarer
 
 **Release Date:** 18th Aug 2020
 
-**Platform:** Steam
+**Platform:** PC (Steam)
 
 **Playthrough Status**: Completed
 

@@ -100,7 +100,7 @@ function Home() {
                 </div>
               </div>
               <div className="col col--6">
-                <h2 className="latest">Latest videos</h2>
+                <h2 className="latest">Latest games</h2>
                 <ul>
                   {updates.map((link) => <li key={link.title}><CreateLink url={link.url} title={link.title} date={link.date}/></li>)}
                 </ul>

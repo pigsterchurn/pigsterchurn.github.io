@@ -9,7 +9,7 @@ title: Hollow Knight
 
 **Release Date:** 25th Feb 2017
 
-**Platform:** Steam
+**Platform:** PC (Steam)
 
 **Playthrough Status**: Ongoing
 

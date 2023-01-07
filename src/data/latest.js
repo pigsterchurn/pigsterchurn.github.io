@@ -1,5 +1,45 @@
 const latest = [
   {
+    "title": "Return to Monkey Island",
+    "url": "/docs/games/monkey-island",
+    "date": "2022-11-29"
+  },
+  {
+    "title": "Splatoon 3",
+    "url": "/docs/games/splatoon-3",
+    "date": "2022-09-10"
+  },
+  {
+    "title": "Rhythm Doctor",
+    "url": "/docs/games/rhythm-doctor",
+    "date": "2022-09-07"
+  },
+  {
+    "title": "TOEM",
+    "url": "/docs/games/toem",
+    "date": "2022-02-12"
+  },
+  {
+    "title": "Luigi's Mansion 3",
+    "url": "/docs/games/luigi-mansion-3",
+    "date": "2022-02-12"
+  },
+  {
+    "title": "Plants vs Zombies: BfN",
+    "url": "/docs/games/pvzbfn",
+    "date": "2022-11-02"
+  },
+  {
+    "title": "Project Diva Future Tone",
+    "url": "/docs/games/project-diva-future-tone",
+    "date": "2021-10-30"
+  },
+  {
+    "title": "Project Diva X",
+    "url": "/docs/games/project-diva-x",
+    "date": "2021-10-29"
+  },
+  {
     "title": "TOEM (P1)",
     "url": "/docs/games/toem",
     "date": "2022-04-17"

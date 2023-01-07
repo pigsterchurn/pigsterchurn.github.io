@@ -60,8 +60,14 @@ class Games extends React.Component {
                 link: '/docs/games/ntwewy'
             });
             completedGames.push({
+                title: "Return to Monkey Island",
+                text: 'PC (Steam)',
+                image: 'monkey-island.jpg',
+                link: '/docs/games/monkey-island'
+            });
+            completedGames.push({
                 title: "Spiritfarer",
-                text: 'Nintendo Switch',
+                text: 'PC (Steam)',
                 image: 'spiritfarer.jpg',
                 link: '/docs/games/spiritfarer'
             });
@@ -76,6 +82,12 @@ class Games extends React.Component {
                 text: 'Nintendo Switch',
                 image: 'tgaac.jpg',
                 link: '/docs/games/tgaac'
+            });
+            completedGames.push({
+                title: "TOEM",
+                text: 'PC (Steam)',
+                image: 'toem.jpg',
+                link: '/docs/games/toem'
             });
         }
 
@@ -106,15 +118,10 @@ class Games extends React.Component {
                                 image="luigi-mansion-3.jpg"
                                 link="/docs/games/luigi-mansion-3">
                             </GameCard>
-                            <GameCard title="Plants vs. Zombies: Battle for Neighborville"
+                            <GameCard title="Splatoon 3"
                                 text="Nintendo Switch"
-                                image="pvzbfn.jpg"
-                                link="/docs/games/pvzbfn">
-                            </GameCard>
-                            <GameCard title="TOEM"
-                                text="Steam"
-                                image="toem.jpg"
-                                link="/docs/games/toem">
+                                image="splatoon-3.jpg"
+                                link="/docs/games/splatoon-3">
                             </GameCard>
                         </div>
 
@@ -132,7 +139,7 @@ class Games extends React.Component {
                                 link="/docs/games/crash-bandicoot-4">
                             </GameCard>
                             <GameCard title="Hollow Knight"
-                                text="Steam"
+                                text="PC (Steam)"
                                 image="hollow-knight.jpg"
                                 link="/docs/games/hollow-knight">
                             </GameCard>
@@ -141,6 +148,12 @@ class Games extends React.Component {
                                 text="Nintendo Switch"
                                 image="mario-rabbids.png"
                                 link="/docs/games/mario-rabbids">
+                            </GameCard>
+
+                            <GameCard title="Plants vs. Zombies: Battle for Neighborville"
+                                text="Nintendo Switch"
+                                image="pvzbfn.jpg"
+                                link="/docs/games/pvzbfn">
                             </GameCard>
 
                             <GameCard title="Splatoon 2"

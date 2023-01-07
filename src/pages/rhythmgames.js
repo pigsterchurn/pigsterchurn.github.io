@@ -49,6 +49,11 @@ class RhythmGames extends React.Component {
                                 image="project-diva-x.jpg"
                                 link="/docs/games/project-diva-x">
                             </GameCard>
+                            <GameCard title="Rhythm Doctor"
+                                text="Steam"
+                                image="rhythm-doctor.jpg"
+                                link="/docs/games/rhythm-doctor">
+                            </GameCard>
                             <GameCard title="Taiko no Tatsujin: Nintendo Switch Version"
                                 text="Nintendo Switch"
                                 image="taiko-switch.jpg"

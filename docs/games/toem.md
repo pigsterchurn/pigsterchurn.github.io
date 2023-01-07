@@ -9,11 +9,11 @@ title: TOEM
 
 **Release Date:** 17th Sep 2021
 
-**Platform:** Steam
+**Platform:** PC (Steam)
 
-**Playthrough Status**: Ongoing
+**Playthrough Status**: Completed
 
-First playthrough of the game, will try to complete all achievements as it is a short game.
+First playthrough of the game, not 100% as I got lazy.
 
 ## YouTube Playlist
 

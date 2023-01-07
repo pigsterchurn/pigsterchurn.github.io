@@ -3,6 +3,16 @@ id: updates
 title: Updates
 sidebar_label: Example Page
 ---
+
+## 2022-11-29
+Added a new game - <a href="/docs/games/monkey-island">Return to Monkey Island</a>
+
+## 2022-09-10
+Added a new game - <a href="/docs/games/splatoon-3">Splatoon 3</a>
+
+## 2022-09-07
+Added a new game - <a href="/docs/games/rhythm-doctor">Rhythm Doctor</a>
+
 ## 2022-02-12
 Added a new game - <a href="/docs/games/toem">TOEM</a>
 
