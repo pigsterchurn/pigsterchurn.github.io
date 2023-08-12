@@ -1,5 +1,15 @@
 const latest = [
   {
+    "title": "Lost in Play",
+    "url": "/docs/games/lost-in-play",
+    "date": "2023-08-13"
+  },
+  {
+    "title": "Cult of the Lamb",
+    "url": "/docs/games/cult-of-the-lamb",
+    "date": "2023-05-16"
+  },
+  {
     "title": "Return to Monkey Island",
     "url": "/docs/games/monkey-island",
     "date": "2022-11-29"

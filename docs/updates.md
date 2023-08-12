@@ -4,6 +4,12 @@ title: Updates
 sidebar_label: Example Page
 ---
 
+## 2023-08-13
+Added a new game - <a href="/docs/games/lost-in-play">Lost in Play</a>
+
+## 2023-05-16
+Added a new game - <a href="/docs/games/cult-of-the-lamb">Cult of the Lamb</a>
+
 ## 2022-11-29
 Added a new game - <a href="/docs/games/monkey-island">Return to Monkey Island</a>
 

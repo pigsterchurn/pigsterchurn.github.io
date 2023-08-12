@@ -48,6 +48,12 @@ class Games extends React.Component {
                 link: '/docs/games/ffx2'
             });
             completedGames.push({
+                title: "Lost in Play",
+                text: 'PC (Steam)',
+                image: 'lost-in-play.jpg',
+                link: '/docs/games/lost-in-play'
+            });
+            completedGames.push({
                 title: "Monster Hunter Stories 2",
                 text: 'Nintendo Switch',
                 image: 'mhst2.jpg',
@@ -113,6 +119,11 @@ class Games extends React.Component {
 
                         <h2>Ongoing Playthroughs</h2>
                         <div className="game-grid">
+                            <GameCard title="Cult of the Lamb"
+                                text="PC (Steam)"
+                                image="cult-of-the-lamb.jpg"
+                                link="/docs/games/cult-of-the-lamb">
+                            </GameCard>
                             <GameCard title="Luigi's Mansion 3"
                                 text="Nintendo Switch"
                                 image="luigi-mansion-3.jpg"
