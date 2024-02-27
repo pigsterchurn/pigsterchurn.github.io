@@ -59,6 +59,11 @@ class RhythmGames extends React.Component {
                                 image="taiko-switch.jpg"
                                 link="/docs/games/taiko-switch">
                             </GameCard>
+                            <GameCard title="Theatrhythm Final Bar Line"
+                                text="Nintendo Switch"
+                                image="theatrhythm.jpg"
+                                link="/docs/games/theatrhythm">
+                            </GameCard>
                         </div>
 
                     </div>

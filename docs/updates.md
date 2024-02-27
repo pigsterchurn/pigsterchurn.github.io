@@ -4,6 +4,15 @@ title: Updates
 sidebar_label: Example Page
 ---
 
+## 2024-02-28
+Added a new game - <a href="/docs/games/theatrhythm">Theatrhythm Final Bar Line</a>
+
+## 2024-02-25
+Added a new game - <a href="/docs/games/touhou-mystia">Touhou Mystia's Izakaya</a>
+
+## 2023-08-16
+Added a new game - <a href="/docs/games/dave-the-diver">Dave the Diver</a>
+
 ## 2023-08-13
 Added a new game - <a href="/docs/games/lost-in-play">Lost in Play</a>
 

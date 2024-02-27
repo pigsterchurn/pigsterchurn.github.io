@@ -119,20 +119,15 @@ class Games extends React.Component {
 
                         <h2>Ongoing Playthroughs</h2>
                         <div className="game-grid">
-                            <GameCard title="Cult of the Lamb"
+                            <GameCard title="Dave the Diver"
                                 text="PC (Steam)"
-                                image="cult-of-the-lamb.jpg"
-                                link="/docs/games/cult-of-the-lamb">
+                                image="dave-the-diver.jpg"
+                                link="/docs/games/dave-the-diver">
                             </GameCard>
-                            <GameCard title="Luigi's Mansion 3"
-                                text="Nintendo Switch"
-                                image="luigi-mansion-3.jpg"
-                                link="/docs/games/luigi-mansion-3">
-                            </GameCard>
-                            <GameCard title="Splatoon 3"
-                                text="Nintendo Switch"
-                                image="splatoon-3.jpg"
-                                link="/docs/games/splatoon-3">
+                            <GameCard title="Touhou Mystia's Izakaya"
+                                text="PC (Steam)"
+                                image="touhou-mystia.jpg"
+                                link="/docs/games/touhou-mystia">
                             </GameCard>
                         </div>
 
@@ -149,12 +144,22 @@ class Games extends React.Component {
                                 image="crash-4.jpg"
                                 link="/docs/games/crash-bandicoot-4">
                             </GameCard>
+                            <GameCard title="Cult of the Lamb"
+                                text="PC (Steam)"
+                                image="cult-of-the-lamb.jpg"
+                                link="/docs/games/cult-of-the-lamb">
+                            </GameCard>
                             <GameCard title="Hollow Knight"
                                 text="PC (Steam)"
                                 image="hollow-knight.jpg"
                                 link="/docs/games/hollow-knight">
                             </GameCard>
-
+                            <GameCard title="Luigi's Mansion 3"
+                                text="Nintendo Switch"
+                                image="luigi-mansion-3.jpg"
+                                link="/docs/games/luigi-mansion-3">
+                            </GameCard>
+                            
                             <GameCard title="Mario + Rabbids Kingdom Battle"
                                 text="Nintendo Switch"
                                 image="mario-rabbids.png"
@@ -171,6 +176,12 @@ class Games extends React.Component {
                                 text="Nintendo Switch"
                                 image="splatoon-2.png"
                                 link="/docs/games/splatoon-2">
+                            </GameCard>
+
+                            <GameCard title="Splatoon 3"
+                                text="Nintendo Switch"
+                                image="splatoon-3.jpg"
+                                link="/docs/games/splatoon-3">
                             </GameCard>
                         </div>
                     </div>

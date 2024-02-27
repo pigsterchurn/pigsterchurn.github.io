@@ -1,5 +1,20 @@
 const latest = [
   {
+    "title": "Theatrhythm Final Bar Line",
+    "url": "/docs/games/theatrhythm",
+    "date": "2024-02-28"
+  },
+  {
+    "title": "Touhou Mystia's Izakaya",
+    "url": "/docs/games/touhou-mystia",
+    "date": "2024-02-25"
+  },
+  {
+    "title": "Dave the Diver",
+    "url": "/docs/games/dave-the-diver",
+    "date": "2023-08-16"
+  },
+  {
     "title": "Lost in Play",
     "url": "/docs/games/lost-in-play",
     "date": "2023-08-13"
